@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>mqraxb@neqv.fv</string>
+	<key>contactName</key>
+	<string>Zdenko</string>
+	<key>description</key>
+	<string>Port of Tubster theme</string>
+	<key>name</key>
+	<string>Tubster</string>
+	<key>uuid</key>
+	<string>3FD3C86D-E999-45D3-98B1-D3A309E6D424</string>
+</dict>
+</plist>
